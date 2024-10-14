@@ -70,4 +70,6 @@ Status `204 `
 {
 }
 ```
+![image](https://github.com/user-attachments/assets/6f54cad7-b273-4bf8-9af1-f35188e66984)
+
 https://www.postman.com/telecoms-engineer-89074507/swe-lab-tasks/collection/ey2k9jc/labrequirement1?action=share&creator=39005368
