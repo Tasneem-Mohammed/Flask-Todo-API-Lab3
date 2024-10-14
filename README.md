@@ -54,18 +54,18 @@ Updates a todo item by its ID.
 ```json
 {
   "id": 2,
-  "title": "Updated tassk",
+  "title": "Updated task",
   "completed": true
 }
 ```
 
-### Delete a tassk
+### Delete a task
 **DELETE** `/todos:id`
 
 Deletes a tassk item by its ID.
 
 **Response:**
-Status `204 No Content` on success.
+Status `204 `
 ```json
 {
 }
