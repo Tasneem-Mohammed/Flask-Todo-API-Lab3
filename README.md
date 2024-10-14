@@ -21,10 +21,10 @@ Retrieves a list of all todo items.
 
 adds a new item.
 
-**Request Body (JSON):**
+**Request Body:**
 ```json
 {
-  "title": "New task",
+  "title": "Assignment 1",
   "completed": false
 }
 ```
@@ -32,7 +32,7 @@ adds a new item.
 ```json
 {
   "id": 2,
-  "title": "New task",
+  "title": "Software Task 1",
   "completed": false
 }
 
